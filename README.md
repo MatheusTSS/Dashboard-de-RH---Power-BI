@@ -32,5 +32,5 @@
 </ul>
 
 <h2>Autor</h2>
-<p>Matheus Santos</p>
+<p>Matheus Tadeu Souza Santos</p>
 <p>Caso tenha dúvidas ou sugestões, entre em contato pelo LinkedIn: <a href="#">http://linkedin.com/in/matheustss/</a></p>
